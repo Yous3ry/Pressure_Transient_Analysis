@@ -17,7 +17,7 @@ Python Based Pressure Transient Analysis (PTA) using pressure derivative plot to
  
 <br>
 ## References
-1. https://www.ihsenergy.ca/support/documentation_ca/WellTest/2019_1/content/html_files/reference_materials/nomenclature.htm
-2. https://www.ihsenergy.ca/support/documentation_ca/WellTest/2019_1/content/html_files/analysis_types/conventional_test_analyses/derivative_analyses.htm
-3. https://www.ihsenergy.ca/support/documentation_ca/WellTest/content/html_files/analysis_types/conventional_test_analyses/radial_flow_analysis.htm
-4. https://www.ihsenergy.ca/support/documentation_ca/WellTest/2019_1/content/html_files/analysis_types/conventional_test_analyses/afterflow_analysis.htm#Summary_of_Equations_for_Afterflow_Derivative_Analysis
+https://www.ihsenergy.ca/support/documentation_ca/WellTest/2019_1/content/html_files/reference_materials/nomenclature.htm
+https://www.ihsenergy.ca/support/documentation_ca/WellTest/2019_1/content/html_files/analysis_types/conventional_test_analyses/derivative_analyses.htm
+https://www.ihsenergy.ca/support/documentation_ca/WellTest/content/html_files/analysis_types/conventional_test_analyses/radial_flow_analysis.htm
+https://www.ihsenergy.ca/support/documentation_ca/WellTest/2019_1/content/html_files/analysis_types/conventional_test_analyses/afterflow_analysis.htm#Summary_of_Equations_for_Afterflow_Derivative_Analysis
