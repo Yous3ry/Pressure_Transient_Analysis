@@ -11,7 +11,8 @@ Python Based Pressure Transient Analysis (PTA) using pressure derivative plot to
 3. Use prepare data function to get the necessary parameters calculated based on test type required for analysis (drawdown or buildup)
 4. Use calc_der function to calculate the second degree derivative using Bourdet derivative.
 5. Use derivative_plot_analysis to draw the derivative function plot then move the horizontal line and unit slope line to estimate paratmeres. <img align="left" width="1000" src="https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/BU_Results.png">
-6. Permeability, Skin and wellbore storage are returned <img align="left" width="500" src="https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/BU_Results_Numbers.png">
+6. Permeability, Skin and wellbore storage are returned 
+<img align="center" width="300" src="https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/BU_Results_Numbers.png">
 
  
 <br>
