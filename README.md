@@ -6,9 +6,9 @@
 
 
 ## Example of results
- <img align="left" width="600" src="https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/Pressure_Plot.png">
- <img align="left" width="600" src="https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/BU_Results.png">
- <img align="left" width="600" src="https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/BU_Results_Numbers.png">
+ <img align="left" width="1000" src="https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/Pressure_Plot.png">
+ <img align="left" width="1000" src="https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/BU_Results.png">
+ <img align="left" width="500" src="https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/BU_Results_Numbers.png">
 <br>
 
 ## References
