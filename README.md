@@ -7,6 +7,7 @@
 
 ## Example of results
 ![alt text](https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/Pressure_Plot.png)
+ <img align="left" width="600" height="200" src="https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/Pressure_Plot.png">
 <br>
 ![alt text](https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/BU_Results.png)![alt text](https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/BU_Results_Numbers.png)
 
