@@ -13,6 +13,7 @@ Python Based Pressure Transient Analysis (PTA) using pressure derivative plot to
 5. Use derivative_plot_analysis to draw the derivative function plot then move the horizontal line and unit slope line to estimate paratmeres. <img align="left" width="1000" src="https://github.com/Yous3ry/Pressure_Transient_Analysis/blob/main/BU_Results.png">
 6. Permeability, Skin and wellbore storage are returned.
 
+*Note* After fitting any line, left click on the mouse to pick fitting value and calculate parameters.
  
 <br>
 ## References <br>
