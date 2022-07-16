@@ -10,6 +10,7 @@ import time
 # https://www.ihsenergy.ca/support/documentation_ca/WellTest/2019_1/content/html_files/analysis_types/conventional_test_analyses/derivative_analyses.htm
 # https://www.ihsenergy.ca/support/documentation_ca/WellTest/content/html_files/analysis_types/conventional_test_analyses/radial_flow_analysis.htm
 # https://www.ihsenergy.ca/support/documentation_ca/WellTest/2019_1/content/html_files/analysis_types/conventional_test_analyses/afterflow_analysis.htm#Summary_of_Equations_for_Afterflow_Derivative_Analysis
+# https://www.ihsenergy.ca/support/documentation_ca/WellTest/2019_1/content/html_files/reference_materials/time_functions/equivalent_time.htm
 
 
 # start and end points from pressure data
